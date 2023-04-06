@@ -164,7 +164,7 @@ const projects = [
   {
     name: "CRWN Clothings",
     description:
-      "A simple e-commerce website built with React.js, Firebase, and Redux, allowing users to browse and purchase clothing items.",
+      "A simple e-commerce website built with React.js, Firebase, and Redux, allowing users to browse and purchase clothing items",
     tags: [
       {
         name: "React js",
